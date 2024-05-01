@@ -1,0 +1,19 @@
+{
+  "Name": "[GM&P] Radioactive Barrel Mod",
+  "Author": "Gubzor (Um, Idk)",
+  "Description": "Adds Radioactive Barrel.",
+  "ModVersion": "yes",
+  "GameVersion": "1.27+",
+  "ThumbnailPath": "Thumb.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [],
+  "Scripts": [
+    "Code/script.cs",
+    "Code/RadioactiveDebris.cs",
+    "Code/RadioactiveCloud.cs",
+    "Code/Resources.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "3235587285"
+}
